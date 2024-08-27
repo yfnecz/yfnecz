@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm a Software Development Enginner
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/natalia-shishina/)
+- I am a Software Development Enginner
+- How to reach me: [Linkedin](https://www.linkedin.com/in/natalia-shishina/)
