@@ -18,5 +18,9 @@ Here are some ideas to get you started:
 - I am a Software Development Enginner
 - How to reach me: [Linkedin](https://www.linkedin.com/in/natalia-shishina/)
 - You can find some educational Python projects I have completed in [my public repositories](https://github.com/yfnecz?tab=repositories)
+- One of the recent educational apps I created is the [Weather App](https://github.com/yfnecz/Weather-App-Flask):
+  
+![ezgif-1-a27cc7d58c](https://github.com/user-attachments/assets/62b601cc-b622-499c-aaa9-307901fcaf9e)
+
 
   
