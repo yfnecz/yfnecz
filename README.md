@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - I am a Software Development Enginner
 - How to reach me: [Linkedin](https://www.linkedin.com/in/natalia-shishina/)
-- You can find some educational Python projects I have completed in [my public repositories](https://github.com/yfnecz?tab=repositories)
+- You can find some educational projects I have completed in [my public repositories](https://github.com/yfnecz?tab=repositories)
 
   
